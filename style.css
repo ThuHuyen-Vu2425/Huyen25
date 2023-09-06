@@ -1,0 +1,23 @@
+
+        h3{
+            color:rgb(121, 147, 54);
+            background-color: aquamarine;
+        }
+        /*dùng dấu chấm để sử dụng class độ dày của viền  */
+        .the3{
+            border: 2px solid blueviolet;
+            box-shadow: 0cqb;
+            font-size:xx-small;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        #id1 {
+            color: rgba(105, 33, 172, 0.498) !important;
+        }
+
+        /* click : ấn vô để đổi màu */
+        .click:active{
+            color: rgb(103, 103, 6);
+        }
+        .click:hover{
+            background-color: blue;
+        }

@@ -1,0 +1,17 @@
+.header{
+    width: 100%;
+    height: 50px;
+    background: pink;
+    color: #fff;
+}
+
+#menu{
+    width: 100%;
+    height: 25px;
+    background: red;
+}
+
+.left{
+    width: 30%;
+    float: left;
+}

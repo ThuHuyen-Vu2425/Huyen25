@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tieude{
+    height: 30px;
+}
+.new{
+    width: 400px;
+    /* làm bo viền ảnh  */
+    border-radius: 50px; 
+}
+
+.ah {
+    width: 40px;
+}
+.button{
+    width: 90px;
+    background-color: rgb(163, 204, 211);
+}
+.main{
+    background-color: rgb(127, 87, 35);
+    margin-left: 1000px;
+    margin-top: 1000px ;
+    padding: 1000px;
+}
+
